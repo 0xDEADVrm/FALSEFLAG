@@ -1,0 +1,7 @@
+{
+  "name": "FALSEFLAG Local Lab",
+  "scope": {
+    "targets": ["localhost"]
+  },
+  "authorization_note": "Local-only demonstration against systems I own."
+}

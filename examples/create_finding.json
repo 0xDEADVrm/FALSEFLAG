@@ -1,0 +1,7 @@
+{
+  "assessment_id": 1,
+  "title": "Example security header review",
+  "target": "localhost",
+  "category": "web",
+  "initial_claim": "A security scanner suggests that a security header may be missing. The claim has not yet been verified."
+}
